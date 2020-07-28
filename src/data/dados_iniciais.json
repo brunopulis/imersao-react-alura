@@ -1,0 +1,165 @@
+{
+  "categorias": [
+    {
+      "titulo": "Raphael Rabello",
+      "link": "https://www.youtube.com/watch?v=HzkfsprYi0k",
+      "cor": "#9e1617",
+      "videos": [
+        {
+          "titulo": "The Brazillian Guitar",
+          "url": "https://www.youtube.com/watch?v=pUgSr2-ifnY"
+        },
+        {
+          "titulo": "Ensaio | Raphael Rabello | 31/07/2016",
+          "url": "https://www.youtube.com/watch?v=WbnSrXv3bmw"
+        },
+        {
+          "titulo": "Raphael Rabello - La Catedral - Heineken Concerts 1993",
+          "url": "https://www.youtube.com/watch?v=25ZtqJjplzQ"
+        },
+        {
+          "titulo": "Garota De Ipanema - Raphael Rabello",
+          "url": "https://www.youtube.com/watch?v=U5ru2fR_O60"
+        },
+        {
+          "titulo": "Raphael Rabello - Desvairada",
+          "url": "https://www.youtube.com/watch?v=AOnr5NpPj8U"
+        },
+        {
+          "titulo": "Lamentos Do Morro (Garoto) - Raphael Rabello",
+          "url": "https://www.youtube.com/watch?v=89MNZMdBXDQ"
+        },
+        {
+          "titulo": "Paco de lucia e Raphael Rabello-ENCONTRO RARO!!!.parte 3",
+          "url": "https://www.youtube.com/watch?v=FgKIb1GnWF4"
+        }
+      ]
+    },
+    {
+      "titulo": "Dilermando Reis",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "titulo": "Abismo de Rosas por Fabio Lima (Música Brasileira de Outros Tempos)",
+          "url": "https://www.youtube.com/watch?v=7VAUq5aPJ_I"
+        },
+        {
+          "titulo": "Dilermando Reis - Romance de Amor",
+          "url": "https://www.youtube.com/watch?v=2gZT8Zl1HXA"
+        },
+        {
+          "titulo": "Xuefei Yang plays Eterna Saudade by Dilermando Reis on a 1925 Santos Hernandez",
+          "url": "https://www.youtube.com/watch?v=Q1gVTmVXIBU"
+        },
+        {
+          "titulo": "Xuefei Yang plays Xodó da Baiana by Dilermando Reis",
+          "url": "https://www.youtube.com/watch?v=tSU5PbiG9XE"
+        },
+        {
+          "titulo": "Se ela Perguntar - Dilermando Reis",
+          "url": "https://www.youtube.com/watch?v=VE2zogBJYYo"
+        }
+      ]
+    },
+    {
+      "titulo": "Yamandu Costa",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Canal do Yamandu",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Valsa D'Angela - Yamandu Costa",
+          "url": "https://www.youtube.com/watch?v=W5aNSG54fuQ"
+        },
+        {
+          "titulo": "Yamandu Costa interpreta ritmo colombiano",
+          "url": "https://www.youtube.com/watch?v=EXeHPUMpM2U"
+        },
+        {
+          "titulo": "Por Una Cabeza - Yamandu Costa",
+          "url": "https://www.youtube.com/watch?v=3RZPjxnVJ40"
+        },
+        {
+          "titulo": "Yamandu Costa - Samba Pro Rafa",
+          "url": "https://www.youtube.com/watch?v=cq7neOyog7I"
+        },
+        {
+          "titulo": "Yamandu Costa - Choro Loco",
+          "url": "https://www.youtube.com/watch?v=pUgSr2-ifnY"
+        },
+        {
+          "titulo": "Visita Boa: Yamandu Costa e Guto Wirtti - Boleros",
+          "url": "https://www.youtube.com/watch?v=cLSvcb1HJ_8"
+        }
+      ]
+    },
+    {
+      "titulo": "Fabio Zanon",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Fabio Zanon, guitar - Bobrowicz: Grand Polonaise, op.24",
+          "url": "https://www.youtube.com/watch?v=3cuj-EPDZKo"
+        },
+        {
+          "titulo": "Fábio Zanon (guitar) plays J.S.Bach Sonata in A minor, BWV 1003",
+          "url": "https://www.youtube.com/watch?v=WrTT8LwWLbU"
+        },
+        {
+          "titulo": "Fabio Zanon: J.S. Bach- Prelude, Fugue and Allegro, Bwv 998",
+          "url": "https://www.youtube.com/watch?v=YGXbW-Gtf7c"
+        },
+        {
+          "titulo": "Fábio Zanon performs Marco Pereira's Bate-Coxa",
+          "url": "https://www.youtube.com/watch?v=JHuJ0mE58z8"
+        },
+        {
+          "titulo": "Fabio Zanon. Master Guitarra Alicante 2014",
+          "url": "https://www.youtube.com/watch?v=F5QPBZwpBAg"
+        }
+      ]
+    },
+    {
+      "titulo": "Alessandro Penezzi",
+      "cor": "red",
+      "link_extra": {
+        "text": "Canal do Penezzi",
+        "url": "https://www.youtube.com/user/apenezzi/"
+      },
+      "videos": [
+        {
+          "titulo": "anta Morena (Jacob do Bandolim) - Alessandro Penezzi /Armandinho Macedo/ Luiz Guello",
+          "url": "https://www.youtube.com/watch?v=MLzJZZSoZQE"
+        },
+        {
+          "titulo": "ALESSANDRO PENEZZI - QUANDO ME LEMBRO (LUPERCE MIRANDA) I 2º RS GUITAR FESTIVAL",
+          "url": "https://www.youtube.com/watch?v=9fHp2nOWmpI"
+        },
+        {
+          "titulo": "Visita Ilustre",
+          "url": "https://www.youtube.com/watch?v=pwD7NNS-SZg"
+        }
+      ]
+    },
+    {
+      "titulo": "Baden Powell",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Baden Powell - Prelude in A minor",
+        "url": "https://www.youtube.com/watch?v=MVcz8IP3Ln4"
+      },
+      "videos": [
+        {
+          "titulo": "Baden Powell 1970 Germany = Manhã de carnaval = rare!",
+          "url": "https://www.youtube.com/watch?v=GGoca5m-loY"
+        },
+        {
+          "titulo": "Samba Triste",
+          "url": "https://www.youtube.com/watch?v=TSUNbvb-DWg"
+        }
+      ]
+    }
+  ]
+}
